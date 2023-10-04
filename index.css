@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#navbar{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid black;
+}
+#navbar li a{
+    text-decoration: none;
+    margin: 20px;
+}
+#navbarli a img {
+    width: 80px;
+    margin-right: 200px;
+}
